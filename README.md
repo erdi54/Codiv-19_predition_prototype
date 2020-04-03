@@ -1,0 +1,2 @@
+# Codiv-19_predition_prototype
+Codiv-19_predition_prototype_on_x-ra_of_pneumonia
